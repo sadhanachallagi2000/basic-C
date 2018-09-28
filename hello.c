@@ -24,3 +24,10 @@ what is return0;
 return 0; /* indicate that program ended successfully 
 what is }
  }  end function main 
+EDITOR-a computer program enabling the user to enter or alter text.
+preprocessor-.. It tells the CPP to undefine existing FILE_SIZE 
+compiler-COMPUTING
+a program that converts instructions into a machine-code or lower-level form so that they can be read and executed by a computer.
+linker-
+a program used with a compiler or assembler to provide links to the libraries needed for an executable program.
+loader-a machine loads something.
